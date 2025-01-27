@@ -35,7 +35,7 @@ body{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    width: 25%;
+    width: 20%;
     padding-top:34px;
     background-image: linear-gradient( 80deg,  rgba(129, 126, 126, 0.426) , rgba(45, 44, 44, 0.475));  
 }
