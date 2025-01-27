@@ -8,6 +8,7 @@ body{
     background-image: linear-gradient( 80deg,  rgb(41, 40, 40) , rgb(100, 100, 100));
     display: flex;
     align-items: center; 
+    position: fixed;
 }
 
 .btn1{ 
@@ -35,7 +36,7 @@ body{
     justify-content: center;
     flex-wrap: wrap;
     width: 25%;
-
+    padding-top:34px;
     background-image: linear-gradient( 80deg,  rgba(129, 126, 126, 0.426) , rgba(45, 44, 44, 0.475));  
 }
 
@@ -76,8 +77,8 @@ body{
     width: 100%;
     padding-left: 10px;
     color: black;
-    margin: 0px;
-    
+    margin-bottom: 198px;
+     
 }
 
 .btn2{ 
